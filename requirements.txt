@@ -1,0 +1,32 @@
+# FastAPI & backend
+fastapi
+uvicorn[standard]
+
+# Async utils
+aiohttp
+aiofiles
+
+# Data
+pandas
+orjson
+
+# MySQL
+sqlalchemy
+mysql-connector-python
+
+# Crypto APIs
+pycoingecko  # Official CoinGecko Python wrapper
+
+# Environment vars
+python-dotenv
+
+# Logging and progress
+loguru
+tqdm
+
+# LLM (local agent using Ollama)
+openai  # If using OpenAI-compatible local LLM like LLaMA3
+ollama  # (if pip package available; otherwise use httpx)
+
+# Optional Streamlit UI
+streamlit
