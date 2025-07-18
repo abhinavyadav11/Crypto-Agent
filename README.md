@@ -1,4 +1,4 @@
-# 🧠 CryptoAgent — Your Personal AI Crypto Analyst
+#  CryptoAgent — Your Personal AI Crypto Analyst
 
 CryptoAgent is a full-stack GenAI-powered assistant that:
 - 🧾 Answers natural language crypto questions (price, market cap, trends)
