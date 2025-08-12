@@ -2,7 +2,7 @@
 
 A comprehensive cryptocurrency analysis platform that combines real-time data fetching, machine learning recommendations, and intelligent Q&A capabilities using RAG (Retrieval-Augmented Generation) technology.
 
-![CryptoAgent Dashboard]
+CryptoAgent Dashboard
 
 <img width="1319" height="838" alt="Screenshot 2025-08-12 at 11 23 09 PM" src="https://github.com/user-attachments/assets/2537ebc0-5f7f-40d8-8b96-5048f71b3459" />
 
